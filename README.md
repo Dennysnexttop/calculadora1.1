@@ -1,6 +1,6 @@
 # calculadora1.1
 
-# <dennys crea junio 2022>
+# <dennys creo Junio 2022>
 
 import sys
 
