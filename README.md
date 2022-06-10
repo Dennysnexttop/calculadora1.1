@@ -1,6 +1,6 @@
 # calculadora1.1
 
-# <abc Crea 2021> - <04/06/21>
+# <dennys crea junio 2022>
 
 import sys
 
